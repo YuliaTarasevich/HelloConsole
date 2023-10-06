@@ -135,13 +135,14 @@ void SelectionSort(int[] array)
             {
                 minPosition = j;
             }
-
-            int temporary = array[i];
-            array[i] = array[minPosition];
-            array[minPosition] = temporary;
         }
+
+        int temporary = array[i];
+        array[i] = array[minPosition];
+        array[minPosition] = temporary;
+
     }
 }
-    PrintArray(arr);
-    SelectionSort(arr);
-    PrintArray(arr);
+PrintArray(arr);
+SelectionSort(arr);
+PrintArray(arr);
