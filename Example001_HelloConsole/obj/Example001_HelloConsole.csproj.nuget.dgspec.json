@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\документы\\учёба в GEEKBRAINS\\ЮЛЯ\\Знакомство с языками программирования\\Лекции\\Лекция 1\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {}
+    "d:\\документы\\учёба в GEEKBRAINS\\ЮЛЯ\\Знакомство с языками программирования\\Лекции\\Лекция 1\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {}
   },
   "projects": {
-    "D:\\документы\\учёба в GEEKBRAINS\\ЮЛЯ\\Знакомство с языками программирования\\Лекции\\Лекция 1\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {
+    "d:\\документы\\учёба в GEEKBRAINS\\ЮЛЯ\\Знакомство с языками программирования\\Лекции\\Лекция 1\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\документы\\учёба в GEEKBRAINS\\ЮЛЯ\\Знакомство с языками программирования\\Лекции\\Лекция 1\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+        "projectUniqueName": "d:\\документы\\учёба в GEEKBRAINS\\ЮЛЯ\\Знакомство с языками программирования\\Лекции\\Лекция 1\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
         "projectName": "Example001_HelloConsole",
-        "projectPath": "D:\\документы\\учёба в GEEKBRAINS\\ЮЛЯ\\Знакомство с языками программирования\\Лекции\\Лекция 1\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+        "projectPath": "d:\\документы\\учёба в GEEKBRAINS\\ЮЛЯ\\Знакомство с языками программирования\\Лекции\\Лекция 1\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
         "packagesPath": "C:\\Users\\1\\.nuget\\packages\\",
-        "outputPath": "D:\\документы\\учёба в GEEKBRAINS\\ЮЛЯ\\Знакомство с языками программирования\\Лекции\\Лекция 1\\Examples\\Example001_HelloConsole\\obj\\",
+        "outputPath": "d:\\документы\\учёба в GEEKBRAINS\\ЮЛЯ\\Знакомство с языками программирования\\Лекции\\Лекция 1\\Examples\\Example001_HelloConsole\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\1\\AppData\\Roaming\\NuGet\\NuGet.Config"
